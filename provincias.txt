@@ -3,3 +3,8 @@ Alava
 Albacete
 Avila
 Burgos
+Vizcaya
+Palencia
+Sevilla
+Málaga
+Cuenca

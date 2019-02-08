@@ -3,3 +3,8 @@ Mexico DF
 Los Angeles
 Houston
 Toronto
+Buenos Aires
+Montevideo
+Bogotá
+Lima
+Rio de Janeiro

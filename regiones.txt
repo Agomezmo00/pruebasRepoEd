@@ -3,3 +3,8 @@ Aragón
 Asturias
 Baleares
 Canarias
+Cataluña
+Galicia
+Pais Vasco
+Murcia
+Extremadura
