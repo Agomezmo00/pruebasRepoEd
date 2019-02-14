@@ -3,3 +3,7 @@ Mexico DF
 Los Angeles
 Houston
 Toronto
+San Francisco
+Ohio
+Miami
+
