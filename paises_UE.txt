@@ -1,5 +1,10 @@
-Alemania
+﻿Alemania
 Bélgica
 Holanda
 Luxemburgo
 Italia
+Dinamarca
+España
+Francia
+Bulgaria
+Portugal
