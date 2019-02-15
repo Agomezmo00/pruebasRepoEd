@@ -1,5 +1,8 @@
-Argentina
+﻿Argentina
 Sudáfrica
 Brasil
 Uruguay
 Mexico
+Estados Unidos
+Canada
+Australia
