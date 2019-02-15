@@ -1,5 +1,4 @@
-Andalucía
-Aragón
-Asturias
-Baleares
-Canarias
+﻿La rioja
+pais vasco
+castilla la mancha
+castilla leon
